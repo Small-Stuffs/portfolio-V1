@@ -1,0 +1,15 @@
+%cover {
+  height: 100%;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+%flex {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+}
